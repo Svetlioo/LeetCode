@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34615fbc-adb2-4935-befb-f04756de1170" name="Changes" comment="config">
-      <change afterPath="$PROJECT_DIR$/src/TopInterview150Easy/ContainsDuplicate.java" afterDir="false" />
+    <list default="true" id="34615fbc-adb2-4935-befb-f04756de1170" name="Changes" comment="Contains Duplicate">
+      <change afterPath="$PROJECT_DIR$/src/TopInterview150Easy/IsAnagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +82,7 @@
       <workItem from="1696446070465" duration="32000" />
       <workItem from="1696446113592" duration="271000" />
       <workItem from="1696446407376" duration="72000" />
+      <workItem from="1696609380001" duration="735000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -114,7 +116,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696446458905</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Contains Duplicate">
+      <option name="closed" value="true" />
+      <created>1696529995795</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1696529995795</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +134,8 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Medium question (First one ever)" />
     <MESSAGE value="config" />
-    <option name="LAST_COMMIT_MESSAGE" value="config" />
+    <MESSAGE value="ContainsDuplicate" />
+    <MESSAGE value="Contains Duplicate" />
+    <option name="LAST_COMMIT_MESSAGE" value="Contains Duplicate" />
   </component>
 </project>
