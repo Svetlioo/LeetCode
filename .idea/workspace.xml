@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34615fbc-adb2-4935-befb-f04756de1170" name="Changes" comment="Contains Duplicate">
-      <change afterPath="$PROJECT_DIR$/src/TopInterview150Easy/IsAnagram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="34615fbc-adb2-4935-befb-f04756de1170" name="Changes" comment="Valid Anagram" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +79,7 @@
       <workItem from="1696446070465" duration="32000" />
       <workItem from="1696446113592" duration="271000" />
       <workItem from="1696446407376" duration="72000" />
-      <workItem from="1696609380001" duration="735000" />
+      <workItem from="1696609380001" duration="1342000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -124,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696529995795</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Valid Anagram">
+      <option name="closed" value="true" />
+      <created>1696610348469</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1696610348469</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +141,7 @@
     <MESSAGE value="config" />
     <MESSAGE value="ContainsDuplicate" />
     <MESSAGE value="Contains Duplicate" />
-    <option name="LAST_COMMIT_MESSAGE" value="Contains Duplicate" />
+    <MESSAGE value="Valid Anagram" />
+    <option name="LAST_COMMIT_MESSAGE" value="Valid Anagram" />
   </component>
 </project>
