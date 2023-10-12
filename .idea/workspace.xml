@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34615fbc-adb2-4935-befb-f04756de1170" name="Changes" comment="Valid Anagram" />
+    <list default="true" id="34615fbc-adb2-4935-befb-f04756de1170" name="Changes" comment="config" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,6 +80,7 @@
       <workItem from="1696446113592" duration="271000" />
       <workItem from="1696446407376" duration="72000" />
       <workItem from="1696609380001" duration="1342000" />
+      <workItem from="1696688577064" duration="14000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -129,7 +130,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696610348469</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="config">
+      <option name="closed" value="true" />
+      <created>1696688587176</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1696688587176</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,10 +147,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Medium question (First one ever)" />
-    <MESSAGE value="config" />
     <MESSAGE value="ContainsDuplicate" />
     <MESSAGE value="Contains Duplicate" />
     <MESSAGE value="Valid Anagram" />
-    <option name="LAST_COMMIT_MESSAGE" value="Valid Anagram" />
+    <MESSAGE value="config" />
+    <option name="LAST_COMMIT_MESSAGE" value="config" />
   </component>
 </project>
